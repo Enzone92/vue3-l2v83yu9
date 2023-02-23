@@ -22,7 +22,7 @@ button {
 
   &.primary {
     background-color: var(--vue-color-primary);
-    color: var(--vue-color-text-on-primary);
+    color: red;
   }
 
   &.secondary {
