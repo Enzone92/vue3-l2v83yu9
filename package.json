@@ -1,0 +1,21 @@
+{
+  "name": "@backlight-dev/enzone.vue3-l2v83yu9",
+  "version": "0.1.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve fI2S1pFq9GcVuAykBCEQ --open"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.17.2",
+    "vue": "^3.1.4"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.7.2",
+    "@vue/test-utils": "latest",
+    "lit": "^2.0.2",
+    "prettier": "^2.3.2"
+  }
+}
